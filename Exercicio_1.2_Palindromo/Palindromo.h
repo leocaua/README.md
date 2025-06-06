@@ -5,7 +5,7 @@
 
 class Palindromo {
 public:
-    static bool ehPalindromo(const std::string& str);
+    bool Palindromos(const std::string& texto);
 };
 
 #endif
