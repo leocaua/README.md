@@ -7,4 +7,5 @@ add_executable(Metodos_Equivalente_Funcoes main.cpp
         POO_Lista01/Exercicio_1.3_Fatorial/main.cpp
         POO_Lista01/Exercicio_1.4_Conversor_Temperatura/main.cpp
         "2. Arrays Multidimensionais (equivalente a Matrizes)/2.1 Maior e Menor Elemento em uma Matriz/main.cpp"
+        "2. Arrays Multidimensionais (equivalente a Matrizes)/2.2 Soma das Diagonais de uma Matriz Quadrada/main.cpp"
 )
