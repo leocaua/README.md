@@ -1,9 +1,0 @@
-cmake_minimum_required(VERSION 3.20)
-project(POO_Lista01)
-
-# Adiciona os subprojetos
-add_subdirectory(Exercicio_1.1_Calculadora)
-add_subdirectory(Exercicio_1.2_Palindromo)
-add_subdirectory(2_Arrays_Multidimensionais_equivalente_a_Matrizes)
-add_subdirectory(3_Manipulacao_de_Objetos_e_Referencias)
-add_subdirectory(4_Classes_Objetos_equivalente_a_Structs)
